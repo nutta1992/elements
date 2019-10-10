@@ -1,0 +1,213 @@
+/* Elements */
+
+body {
+	height: 1000px;
+	background-image: linear-gradient(#112088, #f2c10f);
+	font-family: sans-serif;
+	line-height: 0;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+}
+
+.line {
+	height: 1px;
+	width: 200%;
+	background-color: yellow;
+	transform: rotate(-45deg);
+
+}
+
+.line-2 {
+	transform: rotate(5deg);
+	position: absolute;
+	width: 100%;
+	top: 10em;
+}
+
+.line-3 {
+	transform: rotate(60deg);
+	position: absolute;
+	width: 100%;
+	top: 20em;
+}
+
+.line-4 {
+	transform: rotate(-20deg);
+	position: absolute;
+	width: 300%;
+	top: 2em;
+	left: 1em;
+}
+
+.line-5 {
+	transform: rotate(120deg);
+	position: absolute;
+	width: 200%;
+	left: 0.2%; 
+}
+
+.oval {
+  	height: 700px;
+  	width: 1500px;
+  	position: absolute;
+  	top: 2%;
+  	left: 5%;
+  	background-color: transparent;
+  	border: 2px solid white;
+  	border-radius: 50%;
+  	box-shadow: 10px 10px 50px white;
+}
+
+.oval-2 {
+	height: 600px;
+	width: 1200px;
+	position: absolute;
+  	top: 7%;
+  	left: 15%;
+	
+  }
+
+  .oval-3 {
+	height: 400px;
+	width: 900px;
+	position: absolute;
+  	top: 17%;
+  	left: 23%;
+	
+  }
+
+  .oval-4 {
+	height: 200px;
+	width: 500px;
+	position: absolute;
+  	top: 28%;
+  	left: 35%;
+	
+  }
+
+  .oval-5 {
+	height: 80px;
+	width: 2000px;
+	position: absolute;
+  	top: 28%;
+  	left: 0.2%;
+  	transform: skewY(20deg);
+  	box-shadow: 0px 0px 0px white;
+	
+  }
+
+  .oval-6 {
+	height: 50px;
+	width: 2200px;
+	position: absolute;
+  	top: 40%;
+  	left: 5%;
+  	transform: skewY(150deg);
+  	box-shadow: 0px 0px 0px white;
+	
+	
+  }
+
+.circle {
+	width: 550px;
+	height: 550px;
+	background-color: orange;
+	border-radius: 50%;
+	position: absolute;
+	left: 3%;
+	top: 1%;
+	box-shadow:50px 50px 100px coral inset;
+}
+
+.circle-2 {
+	width: 150px;
+	height: 150px;
+	background-color: #1d0706;
+	border-radius: 50%;
+	position: absolute;
+	left: 50%;
+	top: 60%;
+	box-shadow:50px 50px 100px #9c0b0b inset;
+
+}
+
+.circle-3 {
+	width: 50px;
+	height: 50px;
+	background-color: #0b3d9c;
+	border-radius: 50%;
+	position: absolute;
+	left: 80%;
+	top: 40%;
+	box-shadow:3px 3px 15px #0b9c32 inset;
+
+}
+
+.circle-4 {
+	width: 120px;
+	height: 120px;
+	background-color: blue;
+	border-radius: 50%;
+	position: absolute;
+	left: 20%;
+	top: 80%;
+	box-shadow:20px 20px 30px darkblue inset;
+
+}
+
+.circle-5 {
+	width: 130px;
+	height: 130px;
+	background-color: blue;
+	border-radius: 50%;
+	position: absolute;
+	left: 75%;
+	top: 12%;
+	box-shadow:30px 30px 50px darkblue inset;
+
+}
+
+.circle-6 {
+	width: 90px;
+	height: 90px;
+	background-color: orange;
+	border-radius: 50%;
+	position: absolute;
+	left: 65%;
+	top: 40%;
+	box-shadow:10px 10px 30px yellow inset;
+}
+
+.circle-7 {
+	width: 260px;
+	height: 260px;
+	background-color: salmon;
+	border-radius: 50%;
+	position: absolute;
+	left: 75%;
+	top: 55%;
+	box-shadow:40px 40px 60px red inset;
+}
+
+.circle-8 {
+	width: 300px;
+	height: 300px;
+	background-color: red;
+	border-radius: 50%;
+	position: absolute;
+	left: 45%;
+	top: 12%;
+	box-shadow:80px 80px 120px purple inset;
+}
+
+
+
+
+
+
+
+
+
+
+
